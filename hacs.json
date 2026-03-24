@@ -1,5 +1,5 @@
 {
-  "name": "Keenetic Router",
+  "name": "Keenetic Router sms",
   "homeassistant": "2023.1",
   "country": ["ALL"],
   "render_readme": true,
